@@ -31,7 +31,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "loopback-sdk-angular": "^1.1.1",
+    "loopback-sdk-angular": "git://github.com/phra/loopback-sdk-angular.git#188-angular2-support",
     "optimist": "^0.6.1",
     "semver": "^2.2.1"
   },
